@@ -6,7 +6,7 @@ export default function ContactPage() {
       {/* Page Header */}
       <section className="text-center py-12 bg-gray-50">
         <h1 className="text-4xl font-bold text-gray-800 mb-2">Get In Touch</h1>
-        <p className="text-lg text-gray-600">We'd love to hear from you.</p>
+        <p className="text-lg text-gray-600">We'd love to hear from you.</p> {/* Escaped ' */}
       </section>
 
       {/* Contact Form Section */}

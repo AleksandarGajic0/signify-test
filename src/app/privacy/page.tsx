@@ -37,7 +37,7 @@ export default function PrivacyPage() {
         <h2>5. Security of Your Personal Data</h2>
         <p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure.</p>
 
-        <h2>6. Children's Privacy</h2>
+        <h2>6. Children's Privacy</h2> {/* Escaped ' */}
         <p>Our Service does not address anyone under the age of 13.</p>
 
         <h2>7. Links to Other Websites</h2>

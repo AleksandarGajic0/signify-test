@@ -1,7 +1,7 @@
 'use client'; // Required for using hooks like useParams
 
 import React from 'react';
-import Link from 'next/link';
+// import Link from 'next/link'; // Removed unused import
 import { useParams } from 'next/navigation'; // Hook to access route parameters
 
 export default function ResetPasswordPage() {

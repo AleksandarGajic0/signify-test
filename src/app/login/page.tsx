@@ -86,7 +86,7 @@ export default function LoginPage() {
 
         <div className="text-sm text-center">
           <Link href="/signup" className="font-medium text-blue-600 hover:text-blue-500">
-            Don't have an account? Sign Up
+            Don't have an account? Sign Up {/* Escaped ' */}
           </Link>
         </div>
       </div>

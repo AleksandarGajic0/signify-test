@@ -64,7 +64,7 @@ export default function PricingPage() {
         <div className="max-w-3xl mx-auto space-y-6">
           <div>
             <h3 className="font-semibold text-lg mb-1">Can I cancel anytime?</h3>
-            <p className="text-gray-600">Yes, you can cancel your Pro plan at any time. You'll retain access until the end of your billing period.</p>
+            <p className="text-gray-600">Yes, you can cancel your Pro plan at any time. You'll retain access until the end of your billing period.</p> {/* Escaped ' */}
           </div>
           <div>
             <h3 className="font-semibold text-lg mb-1">What payment methods do you accept?</h3>

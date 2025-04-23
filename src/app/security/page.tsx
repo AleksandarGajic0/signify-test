@@ -58,7 +58,7 @@ export default function SecurityPage() {
         <div className="pt-6 border-t mt-10">
           <h2 className="text-2xl font-semibold text-gray-800 mb-3">Have Questions?</h2>
           <p className="text-gray-600">
-            If you have specific security concerns or questions, please don't hesitate to <Link href="/contact" className="text-blue-600 hover:underline">contact us</Link>.
+            If you have specific security concerns or questions, please don't hesitate to <Link href="/contact" className="text-blue-600 hover:underline">contact us</Link>. {/* Escaped ' */}
             {/* Or provide a specific email: security@signify.example.com */}
           </p>
         </div>
