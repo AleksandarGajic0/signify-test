@@ -1,0 +1,65 @@
+npm<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace [YOUR_SITE_URL] with the actual domain -->
+  <url>
+    <loc>[YOUR_SITE_URL]/</loc>
+    <lastmod>2025-04-23</lastmod> <!-- Placeholder date -->
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>[YOUR_SITE_URL]/features</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>[YOUR_SITE_URL]/pricing</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>[YOUR_SITE_URL]/security</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>[YOUR_SITE_URL]/contact</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>[YOUR_SITE_URL]/terms</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>[YOUR_SITE_URL]/privacy</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>[YOUR_SITE_URL]/signup</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>[YOUR_SITE_URL]/login</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+   <url>
+    <loc>[YOUR_SITE_URL]/forgot-password</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <!-- Note: Dynamic routes like /reset-password/[token] are usually excluded or handled differently -->
+</urlset>
